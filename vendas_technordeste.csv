@@ -1,0 +1,41 @@
+id_pedido,produto,categoria,cidade,quantidade,preco_unitario,desconto_pct,frete,avaliacao
+101,Notebook Ideapad,Notebooks,Recife,2,2800,5,50,
+102,Notebook Aspire,Notebooks,Natal,1,3200,5,40,
+103,Monitor 24,Monitores,Natal,2,900,10,30,5.0
+104,Headset Gamer,Perifericos,Recife,5,220,0,20,4.0
+105,Teclado Mecanico,Perifericos,Natal,3,350,15,25,
+106,Mouse Sem Fio,Perifericos,Fortaleza,4,80,0,20,4.5
+107,Notebook Ideapad,Notebooks,Recife,1,2800,10,50,4.0
+108,Monitor 27,Monitores,Fortaleza,1,1400,5,35,3.5
+109,Headset Gamer,Perifericos,Natal,5,220,15,25,5.0
+110,Teclado Mecanico,Perifericos,Recife,2,350,0,20,
+111,Notebook Nitro,Notebooks,Natal,1,4500,10,60,4.8
+112,Monitor 24,Monitores,Recife,3,900,5,30,4.2
+113,Mouse Sem Fio,Perifericos,Fortaleza,4,80,0,20,3.8
+114,Webcam Full HD,Perifericos,Natal,2,250,10,25,4.5
+115,Notebook Aspire,Notebooks,Recife,2,3200,5,50,4.0
+116,Headset Gamer,Perifericos,Natal,4,220,10,25,
+117,Teclado Mecanico,Perifericos,Fortaleza,3,350,5,25,4.1
+118,Monitor 27,Monitores,Recife,2,1400,0,35,4.9
+119,Notebook Ideapad,Notebooks,Natal,1,2800,10,45,4.3
+120,Webcam Full HD,Perifericos,Fortaleza,5,250,15,25,3.9
+121,Notebook Aspire,Notebooks,Recife,2,3200,5,50,4.7
+122,Monitor 24,Monitores,Natal,2,900,10,30,4.0
+123,Teclado Mecanico,Perifericos,Recife,4,350,0,20,
+124,Mouse Sem Fio,Perifericos,Fortaleza,3,80,5,20,4.2
+125,Notebook Nitro,Notebooks,Natal,1,4500,10,60,5.0
+126,Headset Gamer,Perifericos,Recife,5,220,15,25,
+127,Monitor 27,Monitores,Natal,2,1400,5,35,4.6
+128,Webcam Full HD,Perifericos,Fortaleza,2,250,0,25,4.1
+129,Notebook Ideapad,Notebooks,Recife,1,2800,10,50,4.4
+130,Teclado Mecanico,Perifericos,Natal,3,350,5,25,
+131,Mouse Sem Fio,Perifericos,Fortaleza,4,80,0,20,4.0
+132,Notebook Aspire,Notebooks,Recife,2,3200,10,50,4.8
+133,Monitor 24,Monitores,Natal,2,900,5,30,4.1
+134,Headset Gamer,Perifericos,Recife,5,220,15,25,3.7
+135,Notebook Nitro,Notebooks,Fortaleza,1,4500,5,60,4.9
+136,Webcam Full HD,Perifericos,Natal,2,250,10,25,4.3
+137,Teclado Mecanico,Perifericos,Recife,3,350,0,20,4.0
+138,Monitor 27,Monitores,Fortaleza,2,1400,5,35,4.5
+139,Mouse Sem Fio,Perifericos,Natal,4,80,0,20,
+140,Notebook Ideapad,Notebooks,Recife,2,2800,10,50,4.6
